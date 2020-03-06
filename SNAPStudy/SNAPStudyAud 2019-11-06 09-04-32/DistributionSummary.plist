@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SNAPStudyAud.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>786909CF3FD356592B872B7D749224DB4DD0FFE4</string>
+				<key>dateExpires</key>
+				<string>11/5/22</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>786909CF3FD356592B872B7D749224DB4DD0FFE4</string>
+						<key>dateExpires</key>
+						<string>11/5/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>OneDriveSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>P8HGHZL2K7</string>
+						<key>name</key>
+						<string>Medical College of Wisconsin</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>P8HGHZL2K7.com.mcw.bme.SNAPStudyAud</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>P8HGHZL2K7</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>P8HGHZL2K7.com.faucetendeavors.SNAPStudyAud</string>
+					<string>P8HGHZL2K7.com.microsoft.adalcache</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>SNAPStudyAud.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bf4e7cb9-e108-4073-ba7c-af42fa047e0b</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.mcw.bme.SNAPStudyAud</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>P8HGHZL2K7</string>
+				<key>name</key>
+				<string>Medical College of Wisconsin</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
